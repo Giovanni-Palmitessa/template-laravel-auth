@@ -11,7 +11,7 @@
       id="email" 
       aria-describedby="emailHelp" 
       name="email" 
-      :value="old('email')" 
+      value="old('email')" 
       required autofocus autocomplete="username">
     </div>
 
